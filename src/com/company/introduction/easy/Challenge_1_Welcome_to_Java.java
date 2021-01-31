@@ -1,4 +1,4 @@
-package com.company;
+package com.company.introduction.easy;
 
 /**
  * You must print two lines of output:
