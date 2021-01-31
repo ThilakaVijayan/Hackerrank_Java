@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * In this challenge, you must read an integer, a double, and a String from stdin, then print the values
  */
-public class Challenge_4_Java_Stdin_and_Stdout_II {
+public class Challenge_04_Java_Stdin_and_Stdout_II {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();

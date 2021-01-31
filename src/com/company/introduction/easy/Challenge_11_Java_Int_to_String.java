@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * n can range between -100 to 100 inclusive.
  */
-public class Challenge_10_Java_Int_to_String {
+public class Challenge_11_Java_Int_to_String {
     public static void main(String[] args) {
 
         DoNotTerminate.forbidExit();

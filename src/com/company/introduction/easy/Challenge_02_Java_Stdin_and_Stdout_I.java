@@ -8,7 +8,7 @@ import java.util.Scanner;
  * To make the problem a little easier, a portion of the code is
  * provided for you in the editor below.
  */
-public class Challenge_2_Java_Stdin_and_Stdout_I {
+public class Challenge_02_Java_Stdin_and_Stdout_I {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

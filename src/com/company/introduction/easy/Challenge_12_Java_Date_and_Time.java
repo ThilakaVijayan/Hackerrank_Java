@@ -28,7 +28,7 @@ class Result {
     }
 }
 
-public class Challenge_11_Java_Date_and_Time {
+public class Challenge_12_Java_Date_and_Time {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));

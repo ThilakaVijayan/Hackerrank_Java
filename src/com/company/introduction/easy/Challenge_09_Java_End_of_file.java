@@ -6,7 +6,7 @@ import java.util.Scanner;
  * The challenge here is to read n lines of input until you reach EOF, then number
  * and print all n lines of content.
  */
-public class Challenge_9_Java_End_of_file {
+public class Challenge_09_Java_End_of_file {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int i = 1;

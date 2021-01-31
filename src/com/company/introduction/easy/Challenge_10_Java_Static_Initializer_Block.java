@@ -12,7 +12,7 @@ import java.util.Scanner;
  * <p>
  * If B <= 0 or H <= 0 , the output should be "java.lang.Exception: Breadth and height must be positive" without quotes.
  */
-public class Challenge_13_Java_Static_Initializer_Block {
+public class Challenge_10_Java_Static_Initializer_Block {
     //Write your code here
 
     private static Scanner sc = new Scanner(System.in);

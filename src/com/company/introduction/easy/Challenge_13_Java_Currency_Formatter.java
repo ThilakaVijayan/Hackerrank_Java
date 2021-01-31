@@ -19,7 +19,7 @@ import java.util.Scanner;
  * <p>
  * Note: India does not have a built-in Locale, so you must construct one where the language is en (i.e., English).
  */
-public class Challenge_12_Java_Currency_Formatter {
+public class Challenge_13_Java_Currency_Formatter {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

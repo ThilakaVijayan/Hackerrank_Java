@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * print formatted output.
  */
-public class Challenge_5_Java_Output_Formatting {
+public class Challenge_05_Java_Output_Formatting {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("================================");
